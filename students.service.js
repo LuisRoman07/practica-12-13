@@ -11,4 +11,4 @@ const makeStudentsService = (name, lastname, age) => {
 
 const makeStudent = makeStudentsService("Roman", "Lino", 18)
 
-console.log(makeStudent)
+console.log(makeStudent);
